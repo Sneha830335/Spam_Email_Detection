@@ -1,0 +1,3 @@
+streamlit
+ntlk
+scikit-learn
